@@ -1,16 +1,33 @@
-## Hi there 👋
+{
+  "profile": {
+    "name": "0xMike",
+    "title": "Owner/Operator of Moros Security",
+    "focus": "Security Research"
+  },
 
-<!--
-**0xM1ke/0xM1ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  "research": {
+    "areas": [
+      "Threat Research",
+      "Forensics",
+      "Detection Engineering",
+      "OSINT"
+    ]
+  },
 
-Here are some ideas to get you started:
+  "technical_interests": {
+    "analysis": [
+      "Forensics",
+      "Attack Infrastructure"
+    ]
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  "principles": [
+    "Evidence-driven research",
+    "Responsible disclosure",
+    "Continuous learning"
+  ],
+
+  "links": {
+    "Moros Security": "https://moros.dev/"
+  }
+}
