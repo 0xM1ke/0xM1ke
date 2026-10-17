@@ -1,3 +1,4 @@
+```json
 {
   "profile": {
     "name": "0xMike",
@@ -31,3 +32,4 @@
     "Moros Security": "https://moros.dev/"
   }
 }
+```
